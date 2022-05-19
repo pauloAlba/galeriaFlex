@@ -1,6 +1,22 @@
+<h1 align="center">Welcome to theme-launchbase 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.4-blue.svg?cacheSeconds=2592000" />
+  <img src="https://img.shields.io/badge/vscode-%5E1.12.0-blue.svg" />
+  <a href="https://github.com/maykbrito/theme-launchbase#readme" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/maykbrito/theme-launchbase/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/maykbrito/theme-launchbase" />
+  </a>
+  <a href="https://twitter.com/maykbrito" target="_blank">
+    <img alt="Twitter: maykbrito" src="https://img.shields.io/twitter/follow/maykbrito.svg?style=social" />
+  </a>
+</p>
+
 
 <div align="center">
   <h1>Galeria - Flex</h1>
+  
   <div align="left">
   Galeria de imagens totalmente responsiva, foi desenvolvida utilizando CSS Flexbox e um pouco de JavaScript(para a troca de imagens). 
     Todo o design da galeria foi feito utilizando o figma. As imagens foram retiradas do site Pexels. Você pode conferir todos os detalhes abaixo😀. 
