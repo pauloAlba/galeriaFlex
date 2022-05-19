@@ -11,9 +11,6 @@
   <a href="https://github.com/maykbrito/theme-launchbase/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/maykbrito/theme-launchbase" />
   </a>
-  <a href="https://twitter.com/maykbrito" target="_blank">
-    <img alt="Twitter: maykbrito" src="https://img.shields.io/twitter/follow/maykbrito.svg?style=social" />
-  </a>
 </p>
   
   <div align="left">
