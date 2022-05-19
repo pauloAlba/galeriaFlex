@@ -8,7 +8,7 @@
 
   </div border="1">
   <h2 align="left">Versão para computador</h2>
-  <img src="[https://user-images.githubusercontent.com/17308374/168814066-4d783164-bb53-464d-bdd4-56098b68dc7f.png](https://user-images.githubusercontent.com/17308374/169310946-6c36f40a-3545-4c11-911c-5000b84007fe.png)">
+  <img src="https://user-images.githubusercontent.com/17308374/169313841-4b9a9c4e-06d8-4682-9c03-18fd8e07a502.png">
   <h2 align="left">Versão para tablet / Smartphone</h2>
   <img src="">
   </div>
