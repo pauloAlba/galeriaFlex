@@ -3,7 +3,7 @@
   <h1>Galeria - Flex</h1>
   <div align="left">
   Galeria de imagens totalmente responsiva, foi desenvolvida utilizando CSS Flexbox e um pouco de JavaScript(para a troca de imagens). 
-    Todo o design da galeria foi feito utilizando o figma. As imagens foram retiradas do site Pexels. Você pode conferir todos os arquivos e acessando os links do projeto😀. 
+    Todo o design da galeria foi feito utilizando o figma. As imagens foram retiradas do site Pexels. Você pode conferir todos os detalhes abaixo😀. 
 
 
   </div border="1">
